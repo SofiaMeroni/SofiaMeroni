@@ -12,7 +12,7 @@ Mi experiencia en calidad y automatización de pruebas me permite abordar los de
 |              | `JavaScript`    | `SQLite`      | `PyTest`                 |                        |                      |
 
 
-Puedes contactarme en: [LinkedIn](www.linkedin.com/in/sofiameroni)
+Puedes contactarme en: www.linkedin.com/in/sofiameroni
 
 
 <img src="floral-design.png" alt="Ícono de Flaticon" width="150" height="150">
